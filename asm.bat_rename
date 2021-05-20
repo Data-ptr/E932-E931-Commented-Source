@@ -1,0 +1,1 @@
+tasm -b -t6111 -xf standard_E932_E931_source.asm
